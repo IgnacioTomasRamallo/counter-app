@@ -28,7 +28,7 @@ const peticion = fetch("https://raw.githubusercontent.com/devchallenges-io/web-p
         <p></p>
         //crear componente card mapearlo con una lista de objetos que incluya un archivo js con todos los cafes 
       coffes.map()
-      
+        <h3>Testeando...</h3>
       </div>
 
     </div>
